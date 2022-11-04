@@ -1,6 +1,5 @@
-package com.demo.hibernatetutorial;
+package com.luv2code.jdbc;
 
-import java.net.ConnectException;
 import java.sql.Connection;
 import java.sql.DriverManager;
 import java.sql.SQLException;
